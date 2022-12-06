@@ -1,0 +1,7 @@
+/theme/static/css/dist/*
+/data
+node_modules
+__pycache__
+.DS_Store
+*.pyc
+uploads
